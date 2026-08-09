@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/atharva1304/Coding-Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/atharva1304/Coding-Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/atharva1304/Coding-Leetcode/tree/master/0035-search-insert-position) |
+| [0260-single-number-iii](https://github.com/atharva1304/Coding-Leetcode/tree/master/0260-single-number-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/atharva1304/Coding-Leetcode/tree/master/0242-valid-anagram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/atharva1304/Coding-Leetcode/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
