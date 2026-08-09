@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/atharva1304/Coding-Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/atharva1304/Coding-Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/atharva1304/Coding-Leetcode/tree/master/0070-climbing-stairs) |
 ## Array
 |  |
 | ------- |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/atharva1304/Coding-Leetcode/tree/master/0260-single-number-iii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/atharva1304/Coding-Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/atharva1304/Coding-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
